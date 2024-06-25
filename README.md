@@ -37,6 +37,8 @@ expo start
 
 Congratulations 🎉 Now you have a functional Chat App working locally
 
+![Miniature](https://img.freepik.com/vector-gratis/ilustracion-concepto-bot-chat_114360-5522.jpg?size=338&ext=jpg&ga=GA1.1.1788068356.1716595200&semt=ais_user)
+
 ## Known issues
 
 Expo SDK and libreries are always updating their versions and deprecating others. before installing the libreries run.
