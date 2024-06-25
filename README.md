@@ -65,3 +65,12 @@ Expo will show you what dependencies need to be updated. Install the dependencie
 ```
 yarn start --reset-cache
 ```
+
+
+## Tech Stack
+
+- **[React Native](https://reactnative.dev/)**
+- **[Expo](https://expo.dev/)**
+- **[Firebase Authentication](https://firebase.google.com/products/auth)**
+- **[react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)**
+- **[Gemini API](https://ai.google.dev/gemini-api)**
