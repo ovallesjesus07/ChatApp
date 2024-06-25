@@ -1,4 +1,5 @@
 # Chat App using React Native Expo and Firebase
+![Miniature](https://extensions.dev/assets/blogs/chatbot-with-gemini-firebase-extension/images/configure.png)
 
 ## How to clone
 
